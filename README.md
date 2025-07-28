@@ -1,2 +1,2 @@
 # JS
-A code repo for javascript
+A code repo for some javascript projects
